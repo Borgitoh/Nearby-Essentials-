@@ -1,0 +1,15 @@
+{
+  "name": "nearby_essentials_api",
+  "version": "1.0.0",
+  "description": "Rest API for Nearby Essentials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
