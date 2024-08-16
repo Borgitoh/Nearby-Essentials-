@@ -1,0 +1,5 @@
+<button (click)="getLocation(); getGeo()">Obter Localização</button>
+    <div *ngIf="latitude && longitude">
+      <p>Latitude: {{ latitude }}</p>
+      <p>Longitude: {{ longitude }}</p>
+    </div>
